@@ -18,7 +18,7 @@ a {
 }
 
 a:hover.navigationLink {
-    border-left: 6px solid rgb(0, 0, 0);
+    transform: translateX(20px);
 }
 
 a.active.navigationLink  {

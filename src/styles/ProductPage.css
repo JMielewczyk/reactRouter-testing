@@ -1,0 +1,9 @@
+.productPage {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.productPage a {
+    padding:unset;
+}
